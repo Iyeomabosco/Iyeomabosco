@@ -3,7 +3,7 @@
 - 👀 I’m interested in becoming a Data Analyst.
 - 🌱 I’m currently learning Data Analysis...
 - 💞️ I’m looking to collaborate on Data PROJECTS...
-- 📫 How to reach me
+- 📫 How to reach me https://linkedin.com/in/cynthiashaibu
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: .
 
