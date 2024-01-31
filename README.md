@@ -5,7 +5,7 @@
 - 👀 I’m interested in learning everything about Data Analytics.
 - 🌱 I’m currently challenging myself to learn as much I can, as it relates to the technology industry.
 - 💞️ I’m looking to collaborate on Data and Cybersecurity Projects.
-- 📫 How to reach me https://linkedin.com/in/cynthiashaibu
+- 📫 How to reach me ![](http://linkedin.com/in/cynthiashaibu)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love numbers, networking and learning new skills.
 
